@@ -55,4 +55,4 @@ def index5(self):
        e = guest.execute("", "sudo apt install mysql-server")
         
 if __name__ == "__main__":
-    app.run(debug=True) #Pour commencer notre serveur
+    app.run()(debug=False,host='0.0.0.0') #Pour commencer notre serveur/ et que le serveur soit visible publiquement

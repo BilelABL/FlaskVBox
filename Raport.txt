@@ -1,0 +1,11 @@
+Binome:
+
+Abdelmoula Bilel Groupe 1 SID
+Mestari Amina Aya Groupe 1 SID
+
+On a essayer de deployer l'application sur google cloud , 
+On a crée un fichier supplémentaire
+.yaml  +  on a installer pyyaml avec pip install 
+
+On a fait et tester le code localement avec 'Postman'
+On a insteller VirtuelBox ainsi que Ubuntu + CentOS 
